@@ -5,4 +5,5 @@ git config --global user.email "user_name@email.com"
 git init
 git add <file>...
 git commit -m "message"
+git status
 
