@@ -16,4 +16,5 @@ git reflog
 (use "git checkout -- <file>..." to discard changes in working di
 rectory)
 git rm <file>...
+ssh-keygen -t rsa -C "user_name@email.com"
 
