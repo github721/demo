@@ -9,4 +9,5 @@ git status
 git diff <file>
 git log
 git log --pretty=oneline
+git reset --hard commit_id(eg: HEAD^, HEAD^^, HEAD~10, commit id)
 
