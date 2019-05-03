@@ -7,4 +7,6 @@ git add <file>...
 git commit -m "message"
 git status
 git diff <file>
+git log
+git log --pretty=oneline
 
