@@ -18,4 +18,6 @@ rectory)
 git rm <file>...
 ssh-keygen -t rsa -C "user_name@email.com"
 git remote add origin git@github.com:username/reponame.git
+git push -u origin branch_name(eg: master)
+git push origin branch_name
 
