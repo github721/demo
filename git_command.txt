@@ -17,4 +17,5 @@ git reflog
 rectory)
 git rm <file>...
 ssh-keygen -t rsa -C "user_name@email.com"
+git remote add origin git@github.com:username/reponame.git
 
