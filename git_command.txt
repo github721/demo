@@ -9,7 +9,7 @@ git status
 git diff <file>
 git diff HEAD -- <file>
 git log
-git log --pretty=oneline
+git log --pretty=oneline --graph
 git reset --hard commit_id(eg: HEAD^, HEAD^^, HEAD~10, commit id)
 git reflog
 (use "git reset HEAD <file>..." to unstage)
