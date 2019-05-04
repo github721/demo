@@ -37,4 +37,6 @@ git stash list
 git stash pop
 git stash apply stash@{num}
 git stash drop stash@{num}
+git pull
+git pull <remote> <branch>
 
