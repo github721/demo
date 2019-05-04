@@ -32,4 +32,9 @@ git merge --no-ff -m "message" branch_name
 git branch -d branch_name
 git branch -D branch_name
 git branch --set-upstream branch_name origin/branch_name
+git stash
+git stash list
+git stash pop
+git stash apply stash@{num}
+git stash drop stash@{num}
 
