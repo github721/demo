@@ -29,6 +29,7 @@ git checkout branch_name
 git checkout -b branch_name
 git merge branch_name
 git merge --no-ff -m "message" branch_name
+git merge --abort
 git branch -d branch_name
 git branch -D branch_name
 git branch --set-upstream branch_name origin/branch_name
